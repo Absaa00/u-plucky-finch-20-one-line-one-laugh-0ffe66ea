@@ -1,0 +1,7 @@
+# Ignored build artefacts for the one-line-one-laugh entry (round u-plucky-finch-20)
+kit.zip
+u-plucky-finch-20-one-line-one-laugh-0ffe66ea-kit/
+bundle.tar.gz
+__pycache__/
+*.pyc
+.pytest_cache/
